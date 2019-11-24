@@ -1,0 +1,33 @@
+---
+title: "Forest Health Defenders"
+subtitle: "Pacific Northwest Citizen Science"
+output: 
+  html_document:
+    theme: lumen
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](files/images/PugetSoundCropped.jpg)
+
+```{r include=FALSE}
+library(git2r)
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+```
+
+#Welcome
+This is the landing page for the Forest Health Defenders program. 
+
+#Coming Soon
+We are currently in the process of securing finacial support for this program. 
+
+Please check back again soon. 
+
+#More Information
+Please contact [JM Hulbert](https://jmhulbert.github.io/) for more information. 
+
+For more information about current citizen science opportunities in forest health, please visit the webpage for the [Forest Health Citizen Science Community](https://fhcs.page).

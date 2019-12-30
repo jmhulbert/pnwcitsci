@@ -41,18 +41,13 @@ Citizen science is a term for research championed by people without formal scien
 
 Here you can release your inner scientist by joining us to advance knowledge and keep trees healthy in the PNW.
 
-#### The Research
+## The Research
 
 Trees are ecologically, culturally and economically important to the PNW. The objective of this program is to coordinate open research to keep trees healthy. 
 
-#### Become a Forest Health Defender
+## Become a Forest Health Defender
 
 Stay tuned for more information about how to get involved or contribute to the research. 
-
-# Coming Soon
-We are currently in the process of securing financial support for this program. 
-
-Please check back again soon. 
 
 # Western redcedar decline (pilot project) {.tabset .tabset-fade}
 
@@ -117,44 +112,20 @@ Many reports of declining Bigleaf maple trees have also been shared in recent ye
 ## *Research*
 ## *How to contribute*
 
+Check back soon about how to contribute.
 
 ### Other Forest Health Concerns?
 
 ![](files/images/RootRotPocketCropped.jpg)
-```{r include=FALSE}
-#### Swordfern dieback
-
-#### *Concern*
-#### *Importance*
-#### *Research*
-#### *How to contribute*
-
-### Alder root rot
-
-#### *Concern*
-#### *Importance*
-#### *Research*
-#### *How to contribute*
-
-### Bigleaf maple dieback
-
-#### *Concern*
-#### *Importance*
-#### *Research*
-#### *How to contribute*
-
-```
 
 Let us know if there are other forest health issues you would like to learn more about or see more research for. 
-
-If we can generate enough support, we would also like to design projects about the bigleaf maple decline, swordfern dieback and alder root rot. 
 
 ##
 
 # More Information
 Please contact [JM Hulbert](https://jmhulbert.github.io) for more information about the Forest Health Defenders program. 
 
-More information about current citizen science opportunities in forest health is available on the webpage for the [Forest Health Citizen Science Community](https://fhcs.page).
+> More information about current citizen science opportunities in forest health is available on the webpage for the [Forest Health Citizen Science Community](https://fhcs.page).
 
 # Power This Program
-Please contact [JM Hulbert](https://jmhulbert.github.io) if you are interested in supporting this program. We would be happy to co-develop a project and help champion your ideas to keep trees healthy. 
+Please contact [JM Hulbert](https://jmhulbert.github.io) if you are interested in supporting this program. We would be happy to co-develop a project and help champion your ideas to keep trees healthy.

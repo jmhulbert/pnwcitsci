@@ -2,9 +2,8 @@
 title: "Forest Health Defenders"
 subtitle: "Pacific Northwest Citizen Science"
 output: 
-  prettydoc::html_pretty:
-    theme: cayman
-    highlight: github
+  html_document:
+    theme: lumen
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -55,13 +54,11 @@ We are currently in the process of securing financial support for this program.
 
 Please check back again soon. 
 
-## Forest Health Concerns {.tabset .tabset-fade}
-
-### Western redcedar decline (pilot project)
+# Western redcedar decline (pilot project) {.tabset .tabset-fade}
 
 ![Decline observed at Gas Works Park in Seattle, January 2019.](files/images/WesternRedcedarDeclineCropped.jpg)
 
-#### *Concern*
+## *Concern*
 
 Many reports have expressed concern about the increased levels of western redcedar decline in the PNW. 
 
@@ -77,23 +74,49 @@ Many reports have expressed concern about the increased levels of western redced
         + **Fischer M. J. 2019.  [Western Redcedar East of the Cascades: A Species in Decline?](https://sflonews.wordpress.com/2019/12/04/western-redcedar-east-of-the-cascades-a-species-in-decline/) Washington State Department of Natural Resources, Small Forest Landowner News, December 4, 2019.**
         + Rippey, C. 2018.  [Western redcedar die-off in Seattle Parks](https://www.greenseattle.org/western-redcedar-die-off-in-seattle-parks/). Green Seattle Partnership, Restoration Resources, July 24, 2018.
         
-#### *Importance*
+## *Importance*
 
 * The western redcedar (*Thuja plicata*) is critically important to protect because of its ecological, cultural and economic value.
     + This species grows widely throughout the PNW because of its tolerance to shade, flooding and nutrient poor soils. 
     + Here, it provides habitat and nourishment for many mammal and bird species and has high commercial value because of its durability and resistance to wood rotting fungi. 
     + It is also used widely in restoration activities locally and as an ornamental species internationally. 
-    + It is also considered a Cultural Keystone Species because its multiple uses and value to indigenous American peoples. 
+    + It is also considered a Cultural Keystone Species because its multiple uses and value to indigenous North American peoples. 
 
 > Therefore, conserving *T. plicata* is a critically important for protecting the cultural heritage, timber economy and forest ecosystems of the PNW.
 
-#### *Research*
+## *Research*
 
 Join us to map the extent of the decline and determine if it is entirely linked to recent climate data or if there are other biotic factors involved (e.g. insect pests or diseases).
 
-#### *How to contribute*
+## *How to contribute*
 
 Check back soon for opportunities to contribute.
+
+#
+
+# Bigleaf maple decline {.tabset .tabset-fade}
+## *Concern*
+
+Many reports of declining Bigleaf maple trees have also been shared in recent years. 
+
+* Recent Reports
+    + Theses
+        + Betzen J. 2019. [Bigleaf maple decline in western Washington](https://digital.lib.washington.edu/researchworks/handle/1773/43386?show=full), University of Washington, February 22, 2019.
+    + Book Sections
+        + [Maple (Acer spp.)—Bigleaf maple (Bigleaf maple dieback)](https://pnwhandbooks.org/plantdisease/host-disease/maple-acer-spp-bigleaf-maple-decline-bigleaf-maple-dieback), PNW Pest Management Handbook, OSU, WSU and UI Extension 2015. 
+    +	News Articles
+        + Clancy A. 2018. [Big-leaf maples are dying—and the cause is a mystery](https://www.kiro7.com/news/local/big-leaf-maples-are-dying-and-the-cause-is-amystery/833244890/), KIRO, September 13, 2018.
+        +	Sailor C. 2018. [Some of Washington’s biggest trees are dying and scientists don’t know why](https://www-1.thenewstribune.com/news/local/article217606580.html), The (Tacoma) News Tribune, September 9, 2018.
+    +	Blog Posts
+        +	WADNR. 2014. [Bigleaf maple dieback in western Washington?](https://dnrtreelink.wordpress.com/2014/10/16/bigleaf-maple-dieback-in-western-washington/) Washington Department of Natural Resources, Tree Link News, October 16, 2014.
+        +	WADNR. 2015. [What’s going on with Bigleaf maple?](https://dnrtreelink.wordpress.com/2015/09/10/whats-going-on-with-bigleaf-maple/) Washington Department of Natural Resources, Tree Link News, September 10, 2015.
+        +	WADNR. 2016. [Bigleaf maple decline, update and next steps](https://dnrtreelink.wordpress.com/2016/08/10/bigleaf-maple-decline-update-and-next-steps/), Washington Department of Natural Resources, Tree Link News, August 10, 2016.
+        +	WADNR. 2019. [Bigleaf maple decline, results of UW study](https://dnrtreelink.wordpress.com/2019/02/06/bigleaf-maple-decline-results-of-uw-study/), Washington Department of Natural Resources, Tree Link News, February 4, 2019.
+
+## *Importance*
+## *Research*
+## *How to contribute*
+
 
 ### Other Forest Health Concerns?
 

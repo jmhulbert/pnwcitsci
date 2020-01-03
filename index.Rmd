@@ -31,7 +31,7 @@ library(kableExtra)
 ```
 
 # Welcome
-This is the landing page for the Forest Health Defenders program. 
+This is the (temporary) landing page for the Forest Health Defenders program. 
 
 ## Citizen Science
 
@@ -47,7 +47,7 @@ Trees are ecologically, culturally and economically important to the PNW. The ob
 
 ## Become a Forest Health Defender
 
-Stay tuned for more information about how to get involved or contribute to the research. 
+Stay tuned for more information about opportunities to be involved or contribute to the research. 
 
 # Western redcedar decline (pilot project) {.tabset .tabset-fade}
 
@@ -61,9 +61,10 @@ Many reports have expressed concern about the increased levels of western redced
     + Newsletters
         + Portland Parks and Recreation, 2019. [Urban Forest Health: western redcedar and drought](https://t.e2ma.net/webview/8zhozb/bac0681ea11fe0ffea11d10bc67012bd), Urban Forestry, Tree Bark Number 1, August 2019.
         + WSU Extension, 2018. [Forester's Notes - Western Redcedar](http://forestry.wsu.edu/nps/newsletter/2018july/#focus), Washington State University, North Puget Sound Extension Forestry E-Newsletter, Volume 11, Number 2, July 2018.
-    + Articles
+    + News Articles
         + O'Neill E. 2019. ['Dead tree after dead tree.' The case of Washington's dying foliage](https://kuow.org/stories/dead-tree-after-dead-tree-the-case-of-the-dying-hemlocks-and-cedars-and-maples), KUOW, September 17, 2019.
         + Vikander T. 2019. [Western red cedars are dying of drought in Vancouver and scientists say it’s one more portent of climate change](https://www.thestar.com/vancouver/2019/06/13/western-red-cedars-are-dying-of-drought-in-vancouver-and-scientists-say-its-one-more-portent-of-climate-change.html), The Star, Vancouver, June 13, 2019.
+        + Brend Y. 2019. [Western red cedars die off as extended dry spells continue, say experts](https://www.cbc.ca/news/canada/british-columbia/western-red-cedars-death-dry-climate-change-1.5134262) CBC News, May 14, 2019.
         + Wilson C. 2018. [Summer drought deals ‘devastating loss’ to western red cedar, B.C.’s official tree](https://www.timescolonist.com/news/local/summer-drought-deals-devastating-loss-to-western-red-cedar-b-c-s-official-tree-1.23428047), Times Colonist, September 12, 2018.
     + Blog Posts
         + **Fischer M. J. 2019.  [Western Redcedar East of the Cascades: A Species in Decline?](https://sflonews.wordpress.com/2019/12/04/western-redcedar-east-of-the-cascades-a-species-in-decline/) Washington State Department of Natural Resources, Small Forest Landowner News, December 4, 2019.**
@@ -109,7 +110,13 @@ Many reports of declining Bigleaf maple trees have also been shared in recent ye
         +	WADNR. 2019. [Bigleaf maple decline, results of UW study](https://dnrtreelink.wordpress.com/2019/02/06/bigleaf-maple-decline-results-of-uw-study/), Washington Department of Natural Resources, Tree Link News, February 4, 2019.
 
 ## *Importance*
+
+More information coming soon.
+
 ## *Research*
+
+More information coming soon.
+
 ## *How to contribute*
 
 Check back soon about how to contribute.
@@ -118,7 +125,7 @@ Check back soon about how to contribute.
 
 ![](files/images/RootRotPocketCropped.jpg)
 
-Let us know if there are other forest health issues you would like to learn more about or see more research for. 
+Let us know if there are other forest health issues you would like to learn more about or see more research about. 
 
 ##
 

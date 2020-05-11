@@ -31,16 +31,22 @@ library(kableExtra)
 ```
 
 # Welcome
-This is the landing page for the Pacific Northwest citizen science community. The purpose of this webpage is to highlight the citizen science projects in the region and share resources. 
+Welcome to pnwcitsci.org! The purpose of this webpage is to highlight the many *active* citizen science projects in the region, connect project leaders, and share resources. 
 
+***
 ## Citizen Science
 
 Citizen science is a term for research championed by people without formal scientific backgrounds.
 
->We all have a little bit of scientist in us, it is reason we are curious. Citizen science projects provide opportunities to release our inner scientist.
+>We are curious because we all have a little bit of scientist in us. Citizen science projects provide opportunities for us to release that inner scientist.
 
-There are many ways people without formal scientific backgrounds can contribute to research. For example, the University of Washington's [Center for Game Science](http://centerforgamescience.org/) hosts several exciting games and puzzels that advance knowledge (check out [Foldit](https://fold.it/) or [Mozak](https://www.mozak.science/landing) to solve helpful puzzels about protein folding or neural networks). However, the focus on this webpage and community is on projects that need outdoor participation. 
+There are many opportunities for anyone to contribute to scientific research. For example, the University of Washington's [Center for Game Science](http://centerforgamescience.org/) hosts many exciting games and puzzles that provide fun ways to advance knowledge.
 
+* Check out [Foldit](https://fold.it/) or [Mozak](https://www.mozak.science/landing) to solve helpful puzzles about protein folding or neural networks, respectively. 
+
+However, the focus on this webpage and community is on projects that need outdoor participation. 
+
+***
 ### Outdoor Citizen Science Projects in the Pacific Northwest
 
 Below is a list of outdoor citizen science projects active in the Pacific Northwest (not exhaustive, under revision)
@@ -54,15 +60,13 @@ ProjectList <- read.csv("./files/data/Project List.csv")
 kable(ProjectList,align="c") %>% kable_styling(c("striped", "hover", "condensed", "responsive",full_width=F)) %>% scroll_box(width = "95%", height = "700px") #valign?
 ```
 
-
 Check back soon for open methods to modify the list. In the meantime, please contact [JM Hulbert](mailto:hulbe@wsu.edu).
 
-
-
+***
 
 ![](files/images/RootRotPocketCropped.jpg)
 
-### Project Leader Mailinglist
+### Mailing-list
 
 Want to connect with other citizen science project leaders in the region? Subscribe to the [mailing-list](https://groups.io/pnwcitsci) by visiting the [Groups.io page (https://groups.io/g/pnwCitSci)](https://groups.io/g/pnwCitSci) or by emailing the subscribe email listed below: 
 
@@ -75,13 +79,24 @@ Want to connect with other citizen science project leaders in the region? Subscr
   
 Note that you do *not* need a groups.io account to subscribe.
 
+***
 ### More Information
-Please contact [JM Hulbert](https://jmhulbert.github.io) for any questions or suggestions for the PNW Citizen Science webpage. 
+Please contact [JM Hulbert](https://jmhulbert.github.io) with any questions or suggestions for the PNW Citizen Science webpage. 
 
-## Resources
+***
+### Local Resources
+
+* Guides for Citizen Scientists
+      + [Scientific literacy for the citizen scientist](https://pubs.extension.wsu.edu/scientific-literacy-for-the-citizen-scientist), Washington State University Extension.
+      + [A citizen science guide to wild bees and floral visitors in western Washington (Home Garden Series)](https://pubs.extension.wsu.edu/a-citizen-science-guide-to-wild-bees-and-floral-visitors-in-western-washington-home-garden-series), Washington State University Extension.
+
+* Online Courses and Webinars
+      + [Oregon Forest Pest Detectors](https://extension.oregonstate.edu/ofpd), Oregon State University Extension Service.
+      + [Pest Scene Investigator: a Training Curriculum](https://catalog.extension.oregonstate.edu/em9161), Oregon State University Extension Service.
 
 More information coming soon
 
-## Technical Literature
+***
+### Technical Literature
 
 More information coming soon

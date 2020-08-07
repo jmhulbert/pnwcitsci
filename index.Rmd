@@ -87,16 +87,19 @@ Please contact [JM Hulbert](https://jmhulbert.github.io) with any questions or s
 ### Local Resources
 
 * Guides for Citizen Scientists
-      + [Scientific literacy for the citizen scientist](https://pubs.extension.wsu.edu/scientific-literacy-for-the-citizen-scientist), Washington State University Extension.
-      + [A citizen science guide to wild bees and floral visitors in western Washington (Home Garden Series)](https://pubs.extension.wsu.edu/a-citizen-science-guide-to-wild-bees-and-floral-visitors-in-western-washington-home-garden-series), Washington State University Extension.
+    + [Scientific literacy for the citizen scientist](https://pubs.extension.wsu.edu/scientific-literacy-for-the-citizen-scientist), Washington State University Extension.
+    + [A citizen science guide to wild bees and floral visitors in western Washington (Home Garden Series)](https://pubs.extension.wsu.edu/a-citizen-science-guide-to-wild-bees-and-floral-visitors-in-western-washington-home-garden-series), Washington State University Extension.
 
 * Online Courses and Webinars
-      + [Oregon Forest Pest Detectors](https://extension.oregonstate.edu/ofpd), Oregon State University Extension Service.
-      + [Pest Scene Investigator: a Training Curriculum](https://catalog.extension.oregonstate.edu/em9161), Oregon State University Extension Service.
+    + [Oregon Forest Pest Detectors](https://extension.oregonstate.edu/ofpd), Oregon State University Extension Service.
+    + [Pest Scene Investigator: a Training Curriculum](https://catalog.extension.oregonstate.edu/em9161), Oregon State University Extension Service.
 
 More information coming soon
 
 ***
 ### Technical Literature
 
+* Publications
+    + Taylor SD, Meiners JM, Riemer K, Orr MC, White EP. [Comparison of large‐scale citizen science data and long‐term study data for phenology modeling](https://andrewsforest.oregonstate.edu/publications/5081). Ecology. 2019 Feb;100(2):e02568.
+    
 More information coming soon

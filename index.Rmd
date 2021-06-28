@@ -36,13 +36,15 @@ Welcome to pnwcitsci.org! The purpose of this webpage is to highlight the many *
 ***
 ## Citizen Science
 
-Citizen science is a term for research championed by people without formal scientific backgrounds.
+Citizen science is a term for research championed by people without formal scientific backgrounds. 
 
 >We are curious because we all have a little bit of scientist in us. Citizen science projects provide opportunities for us to release that inner scientist.
 
 There are many opportunities for anyone to contribute to scientific research. For example, the University of Washington's [Center for Game Science](http://centerforgamescience.org/) hosts many exciting games and puzzles that provide fun ways to advance knowledge.
 
 * Check out [Foldit](https://fold.it/) or [Mozak](https://www.mozak.science/landing) to solve helpful puzzles about protein folding or neural networks, respectively. 
+
+* Check out [OrcaSound](https://www.orcasound.net/listen/) to listen for and document interesting underwater sounds.
 
 However, the focus on this webpage and community is on projects that need outdoor participation. 
 

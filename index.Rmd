@@ -2,10 +2,10 @@
 title: "Pacific Northwest Citizen Science"
 subtitle: "Advancing knowledge and learning together"
 output: 
-  html_document:
-    theme: lumen
+  prettydoc::html_pretty:
+    theme: caymen
+    highlight: github
 ---
-
 <!-- Global site tag (gtag.js) - Google Analytics 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-44627976-9"></script>
 <script>
@@ -30,6 +30,12 @@ library(knitr)
 library(kableExtra)
 ```
 
+# Save the Date - October 26 and 27th
+## Please save the date for a *PNW Citizen & Community Science Summit* 
+
+The event will be hosted at the World Forestry Center in Portland, Oregon. More information and a space to register coming soon. 
+
+***
 # Welcome
 Welcome to pnwcitsci.org! The purpose of this webpage is to highlight the many *active* citizen science projects in the region, connect project leaders, and share resources. 
 

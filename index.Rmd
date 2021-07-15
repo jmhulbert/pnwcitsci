@@ -21,7 +21,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![](files/images/PugetSoundCropped.jpg)
 
 ```{r include=FALSE}
 library(git2r)
@@ -36,6 +35,9 @@ library(kableExtra)
 The event will be hosted at the World Forestry Center in Portland, Oregon. More information and a space to register coming soon. 
 
 ***
+
+![](files/images/PugetSoundCropped.jpg)
+
 # Welcome
 Welcome to pnwcitsci.org! The purpose of this webpage is to highlight the many *active* citizen science projects in the region, connect project leaders, and share resources. 
 

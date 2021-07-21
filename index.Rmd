@@ -6,7 +6,7 @@ output:
     theme: caymen
     highlight: github
 ---
-<!-- Global site tag (gtag.js) - Google Analytics 
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-44627976-9"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -15,7 +15,7 @@ output:
 
   gtag('config', 'UA-44627976-9');
 </script>
--->
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)

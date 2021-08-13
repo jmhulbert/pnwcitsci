@@ -70,7 +70,7 @@ ProjectList <- read.csv("./files/data/Project List.csv")
 ```
 
 ```{r echo=FALSE}
-kable(ProjectList) %>% kable_styling(c("striped", "hover", "condensed", "responsive", font_size = 5)) %>% column_spec(1, bold = T,border_right = T, width_min="15em") %>% column_spec(4, width_min="20em")  %>% scroll_box(width = "95%", height = "700px")
+kable(ProjectList) %>% kable_styling(c("striped", "hover", "condensed", "responsive", font_size = 5,fixed_thead=TRUE)) %>% column_spec(1, bold = T,border_right = T, width_min="13em") %>% column_spec(3, width_min="12em")  %>% column_spec(4, width_min="18em") %>% scroll_box(width = "95%") 
 ```
 
 Check back soon for open methods to modify the list. In the meantime, please contact [JM Hulbert](mailto:hulbe@wsu.edu).

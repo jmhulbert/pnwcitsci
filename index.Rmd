@@ -30,7 +30,8 @@ library(kableExtra)
 ```
 
 # Save the Date - October 26th and 27th, 2021
-## Please save the date for a *PNW Citizen & Community Science Summit* 
+
+### Please save the date for a *PNW Citizen & Community Science Summit* 
 
 The event will be hosted at the World Forestry Center in Portland, Oregon. More information and a space to register coming soon. 
 
@@ -40,6 +41,7 @@ The event will be hosted at the World Forestry Center in Portland, Oregon. More 
 
 # Welcome
 Welcome to pnwcitsci.org! The purpose of this webpage is to highlight the many *active* citizen science projects in the region, connect project leaders, and share resources. 
+\  
 
 ***
 ## Citizen Science
@@ -54,7 +56,8 @@ There are many opportunities for anyone to contribute to scientific research. Fo
 
 * Check out [OrcaSound](https://www.orcasound.net/listen/) to listen for and document interesting underwater sounds.
 
-However, the focus on this webpage and community is on projects that need outdoor participation. 
+This webpage and community is focused on projects that need outdoor participation. 
+\  
 
 ***
 ### Outdoor Citizen Science Projects in the Pacific Northwest
@@ -67,14 +70,17 @@ ProjectList <- read.csv("./files/data/Project List.csv")
 ```
 
 ```{r echo=FALSE}
-kable(ProjectList,align="c") %>% kable_styling(c("striped", "hover", "condensed", "responsive",full_width=F)) %>% scroll_box(width = "95%", height = "700px") #valign?
+kable(ProjectList) %>% kable_styling(c("striped", "hover", "condensed", "responsive", font_size = 5)) %>% column_spec(1, bold = T,border_right = T, width_min="15em") %>% column_spec(4, width_min="20em")  %>% scroll_box(width = "95%", height = "700px")
 ```
 
 Check back soon for open methods to modify the list. In the meantime, please contact [JM Hulbert](mailto:hulbe@wsu.edu).
 
+\  
+
 ***
 
 ![](files/images/RootRotPocketCropped.jpg)
+\  
 
 ### Mailing-list
 
@@ -89,9 +95,13 @@ Want to connect with other citizen science project leaders in the region? Subscr
   
 Note that you do *not* need a groups.io account to subscribe.
 
+\  
+
 ***
 ### More Information
 Please contact [JM Hulbert](https://jmhulbert.github.io) with any questions or suggestions for the PNW Citizen Science webpage. 
+
+\  
 
 ***
 ### Local Resources
@@ -105,6 +115,8 @@ Please contact [JM Hulbert](https://jmhulbert.github.io) with any questions or s
     + [Pest Scene Investigator: a Training Curriculum](https://catalog.extension.oregonstate.edu/em9161), Oregon State University Extension Service.
 
 More information coming soon
+
+\  
 
 ***
 ### Technical Literature

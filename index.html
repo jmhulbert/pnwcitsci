@@ -140,7 +140,7 @@ u),e(r[u],"region",$e,u),e(r[u],"country",Ze,u);jf(h,k,c)}else h.push({name:"err
 n=d[h].index,p=mf[k];p&&l&&(!gf(k)||We(l))&&(void 0!==n&&(p+=n),f.push(p+"."+l))}c({vc:encodeURIComponent(f.join("~")),ic:e})})})}catch(c){}},gf=function(a){return-1!==["email","phone_number","first_name","last_name","street"].indexOf(a)};var qf=function(){this.eventModel={};this.targetConfig={};this.containerConfig={};this.remoteConfig={};this.globalConfig={};this.onSuccess=function(){};this.onFailure=function(){};this.setContainerTypeLoaded=function(){};this.getContainerTypeLoaded=function(){};this.eventId=void 0;this.isGtmEvent=!1},rf=function(a){var b=new qf;b.eventModel=a;return b},sf=function(a,b){a.targetConfig=b;return a},tf=function(a,b){a.containerConfig=b;return a},uf=function(a,b){a.remoteConfig=b;return a},vf=function(a,
 b){a.globalConfig=b;return a},wf=function(a,b){a.onSuccess=b;return a},xf=function(a,b){a.setContainerTypeLoaded=b;return a},yf=function(a,b){a.getContainerTypeLoaded=b;return a},zf=function(a,b){a.onFailure=b;return a};
 qf.prototype.getWithConfig=function(a){if(void 0!==this.eventModel[a])return this.eventModel[a];if(void 0!==this.targetConfig[a])return this.targetConfig[a];if(void 0!==this.containerConfig[a])return this.containerConfig[a];if(void 0!==this.remoteConfig[a])return this.remoteConfig[a];if(void 0!==this.globalConfig[a])return this.globalConfig[a]};
-var Af=function(a){function b(d){for(var e=Object.keys(d),f=0;f<e.length;++f)c[e[f]]=1}var c={};b(a.eventModel);b(a.targetConfig);b(a.containerConfig);b(a.globalConfig);return Object.keys(c)},Bf=function(a,b,c){function d(h){Yb(h)&&Ja(h,function(k,l){f=!0;e[k]=l})}var e={},f=!1;c&&1!==c||(d(a.globalConfig[b]),d(a.remoteConfig[b]),d(a.containerConfig[b]),d(a.targetConfig[b]));c&&2!==c||d(a.eventModel[b]);return f?e:void 0};var Cf={},Df=null,Ef=Math.random();Cf.M="UA-44627976-9";Cf.$c="8b0";Cf.$i="";Cf.Rg="ChEI8LDYiAYQj7uypfzf8JbFARImAN4TyzO0vE1X9sKaTep6we9QDmG5fEMd+cz4HPybMZcm5BCh6iUaArKW";var Ff={__cl:!0,__ecl:!0,__ehl:!0,__evl:!0,__fal:!0,__fil:!0,__fsl:!0,__hl:!0,__jel:!0,__lcl:!0,__sdl:!0,__tl:!0,__ytl:!0},Gf={__paused:!0,__tg:!0},Hf;for(Hf in Ff)Ff.hasOwnProperty(Hf)&&(Gf[Hf]=!0);var If="www.googletagmanager.com/gtm.js";If="www.googletagmanager.com/gtag/js";
+var Af=function(a){function b(d){for(var e=Object.keys(d),f=0;f<e.length;++f)c[e[f]]=1}var c={};b(a.eventModel);b(a.targetConfig);b(a.containerConfig);b(a.globalConfig);return Object.keys(c)},Bf=function(a,b,c){function d(h){Yb(h)&&Ja(h,function(k,l){f=!0;e[k]=l})}var e={},f=!1;c&&1!==c||(d(a.globalConfig[b]),d(a.remoteConfig[b]),d(a.containerConfig[b]),d(a.targetConfig[b]));c&&2!==c||d(a.eventModel[b]);return f?e:void 0};var Cf={},Df=null,Ef=Math.random();Cf.M="UA-44627976-9";Cf.$c="8b0";Cf.$i="";Cf.Rg="ChEI8LDYiAYQj7uypfzf8JbFARImAN4TyzOUWZh3KhErPGcUQMlh3a4tztsDS6hSbLfawEl+hwX3X/IaAr2X";var Ff={__cl:!0,__ecl:!0,__ehl:!0,__evl:!0,__fal:!0,__fil:!0,__fsl:!0,__hl:!0,__jel:!0,__lcl:!0,__sdl:!0,__tl:!0,__ytl:!0},Gf={__paused:!0,__tg:!0},Hf;for(Hf in Ff)Ff.hasOwnProperty(Hf)&&(Gf[Hf]=!0);var If="www.googletagmanager.com/gtm.js";If="www.googletagmanager.com/gtag/js";
 var Jf=If,Kf=Na(""),Lf=null,Mf=null,Nf="https://www.googletagmanager.com/a?id="+Cf.M+"&cv=1",Of={},Pf={},Qf=function(){var a=Df.sequence||1;Df.sequence=a+1;return a};Cf.Qg="";var Rf=new Fa,Sf={},Tf={},Wf={name:"dataLayer",set:function(a,b){H(Ya(a,b),Sf);Uf()},get:function(a){return Vf(a,2)},reset:function(){Rf=new Fa;Sf={};Uf()}},Vf=function(a,b){return 2!=b?Rf.get(a):Xf(a)},Xf=function(a){var b,c=a.split(".");b=b||[];for(var d=Sf,e=0;e<c.length;e++){if(null===d)return!1;if(void 0===d)break;d=d[c[e]];if(-1!==ya(b,d))return}return d},Yf=function(a,b){Tf.hasOwnProperty(a)||(Rf.set(a,b),H(Ya(a,b),Sf),Uf())},Uf=function(a){Ja(Tf,function(b,c){Rf.set(b,c);H(Ya(b,void 0),
 Sf);H(Ya(b,c),Sf);a&&delete Tf[b]})},Zf=function(a,b){var c,d=1!==(void 0===b?2:b)?Xf(a):Rf.get(a);"array"===Wb(d)||"object"===Wb(d)?c=H(d):c=d;return c};
 var $f=function(a,b,c){if(c){var d=c.selector_type,e=String(c.value),f;if("js_variable"===d){e=e.replace(/\["?'?/g,".").replace(/"?'?\]/g,"");for(var h=e.split(","),k=0;k<h.length;k++){var l=h[k].trim();if(l){if(0===l.indexOf("dataLayer."))f=Vf(l.substring(10));else{var n=l.split(".");f=m[n.shift()];for(var p=0;p<n.length;p++)f=f&&f[n[p]]}if(void 0!==f)break}}}else if("css_selector"===d&&de){var q=ee(e);q&&0<q.length&&(f=Nb(q[0])||Qa(q[0].value))}f&&(a[b]=f)}},ag=function(a){if(a){var b={};$f(b,"email",
@@ -387,7 +387,7 @@ Regional
 <td style="text-align:left;min-width: 12em; ">
 Washington State University
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Forest health, climate change, invasive species
 </td>
 <td style="text-align:left;">
@@ -404,7 +404,7 @@ Washington
 <td style="text-align:left;min-width: 12em; ">
 University of Washington
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Plant phenology, climate change
 </td>
 <td style="text-align:left;">
@@ -421,7 +421,7 @@ Washington
 <td style="text-align:left;min-width: 12em; ">
 University of Washington
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Coastal environments, seabirds
 </td>
 <td style="text-align:left;">
@@ -438,7 +438,7 @@ Washington
 <td style="text-align:left;min-width: 12em; ">
 University of Washington
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Plant conservation
 </td>
 <td style="text-align:left;">
@@ -455,7 +455,7 @@ Washington
 <td style="text-align:left;min-width: 12em; ">
 University of Washington
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Entomology
 </td>
 <td style="text-align:left;">
@@ -472,7 +472,7 @@ Washington
 <td style="text-align:left;min-width: 12em; ">
 Washington State University
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Forest health, plant disease
 </td>
 <td style="text-align:left;">
@@ -489,7 +489,7 @@ Washington
 <td style="text-align:left;min-width: 12em; ">
 Washington State University
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Forest health, plant disease, invasive species
 </td>
 <td style="text-align:left;">
@@ -506,7 +506,7 @@ Washington
 <td style="text-align:left;min-width: 12em; ">
 Washington Invasive Species Council
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Invasive species
 </td>
 <td style="text-align:left;">
@@ -523,7 +523,7 @@ Oregon &amp; Washington
 <td style="text-align:left;min-width: 12em; ">
 National Park Service
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Invasive species
 </td>
 <td style="text-align:left;">
@@ -540,7 +540,7 @@ Oregon
 <td style="text-align:left;min-width: 12em; ">
 Oregon State University
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Plant phenology, climate change
 </td>
 <td style="text-align:left;">
@@ -557,7 +557,7 @@ Oregon
 <td style="text-align:left;min-width: 12em; ">
 Oregon State University
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Climate monitoring
 </td>
 <td style="text-align:left;">
@@ -574,7 +574,7 @@ Oregon
 <td style="text-align:left;min-width: 12em; ">
 Oregon State University
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Forest health, entomology, invasive species
 </td>
 <td style="text-align:left;">
@@ -591,7 +591,7 @@ Oregon
 <td style="text-align:left;min-width: 12em; ">
 Oregon State University
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Entomology
 </td>
 <td style="text-align:left;">
@@ -608,7 +608,7 @@ Oregon
 <td style="text-align:left;min-width: 12em; ">
 Oregon State University, Oregon Department of Forestry, Oregon Department of Agriculture
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Entomology, pollinators
 </td>
 <td style="text-align:left;">
@@ -625,7 +625,7 @@ British Columbia
 <td style="text-align:left;min-width: 12em; ">
 Bird Studies Canada, BC Ministry of the Environment
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Biodiversity conservation
 </td>
 <td style="text-align:left;">
@@ -642,7 +642,7 @@ Oregon &amp; Washington
 <td style="text-align:left;min-width: 12em; ">
 USGS
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Streamflow
 </td>
 <td style="text-align:left;">
@@ -659,7 +659,7 @@ Washington
 <td style="text-align:left;min-width: 12em; ">
 Woodland Park Zoo
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Wildlife conservation
 </td>
 <td style="text-align:left;">
@@ -676,7 +676,7 @@ Washington
 <td style="text-align:left;min-width: 12em; ">
 Woodland Park Zoo
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Wildlife conservation
 </td>
 <td style="text-align:left;">
@@ -693,7 +693,7 @@ Regional
 <td style="text-align:left;min-width: 12em; ">
 Independent
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Plant conservation
 </td>
 <td style="text-align:left;">
@@ -710,7 +710,7 @@ Global, Oregon Born
 <td style="text-align:left;min-width: 12em; ">
 Independent
 </td>
-<td style="text-align:left;min-width: 18em; ">
+<td style="text-align:left;min-width: 16em; ">
 Restoration and Conservation
 </td>
 <td style="text-align:left;">

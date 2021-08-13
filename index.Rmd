@@ -17,6 +17,8 @@ output:
 </script>
 
 
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -78,7 +80,7 @@ Check back soon for open methods to modify the list. In the meantime, please con
 
 ### Mailing-list
 
-Want to connect with other citizen science project leaders in the region? Subscribe to the [mailing-list](https://groups.io/pnwcitsci) by visiting the [Groups.io page (https://groups.io/g/pnwCitSci)](https://groups.io/g/pnwCitSci) or by emailing the subscribe email listed below: 
+Want to connect with other citizen science project leaders in the region? Subscribe to the [mailing-list](https://groups.io/g/pnwcitsci) by visiting the [Groups.io page (https://groups.io/g/pnwCitSci)](https://groups.io/g/pnwCitSci) or by emailing the subscribe email listed below: 
 
 * Group Email Addresses
   +  Post: pnwCitSci@groups.io

@@ -3,6 +3,7 @@ title: "Pacific Northwest Citizen Science"
 subtitle: "Advancing knowledge and learning together"
 output: 
   prettydoc::html_pretty:
+    css: style.css
     theme: caymen
     highlight: github
 ---

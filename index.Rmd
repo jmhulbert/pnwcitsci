@@ -29,11 +29,23 @@ library(knitr)
 library(kableExtra)
 ```
 
-# Save the Date - October 26th and 27th, 2021
+# Save the Date - *PNW Citizen & Community Science Summit*  
 
-### Please save the date for a *PNW Citizen & Community Science Summit* 
+### Please save October 26th and 27th, 2021
 
-The event will be hosted at the World Forestry Center in Portland, Oregon. More information and a space to register coming soon. 
+The event will be hosted virtually on Zoom. Join us for two days of learning and networking.  
+
+#### **Registration coming soon**
+
+We will add more information and a space to register shortly.  
+
+#### **Submit an abstract**
+
+**Want to present?** 
+
+Submit abstracts [here](https://forms.gle/Wt2yxGj4tJiwak1h9)!
+
+\
 
 ***
 
@@ -48,6 +60,8 @@ Welcome to pnwcitsci.org! The purpose of this webpage is to highlight the many *
 
 Citizen science is a term for research championed by people without formal scientific backgrounds. 
 
+**Every person is a citizen of the world.**
+
 >We are curious because we all have a little bit of scientist in us. Citizen science projects provide opportunities for us to release that inner scientist.
 
 There are many opportunities for anyone to contribute to scientific research. For example, the University of Washington's [Center for Game Science](http://centerforgamescience.org/) hosts many exciting games and puzzles that provide fun ways to advance knowledge.
@@ -56,13 +70,12 @@ There are many opportunities for anyone to contribute to scientific research. Fo
 
 * Check out [OrcaSound](https://www.orcasound.net/listen/) to listen for and document interesting underwater sounds.
 
-This webpage and community is focused on projects that need outdoor participation. 
 \  
 
 ***
-### Outdoor Citizen Science Projects in the Pacific Northwest
+## Outdoor Citizen Science Projects in the Pacific Northwest
 
-Below is a list of outdoor citizen science projects active in the Pacific Northwest (not exhaustive, under revision)
+Below is a list of outdoor citizen science projects active in the Pacific Northwest (not exhaustive, under constant revision). Please send suggestion changes to [JM Hulbert](mailto:hulbe@wsu.edu).
 
 ```{r echo=FALSE}
 ProjectList <- read.csv("./files/data/Project List.csv")
@@ -70,10 +83,22 @@ ProjectList <- read.csv("./files/data/Project List.csv")
 ```
 
 ```{r echo=FALSE}
-kable(ProjectList) %>% kable_styling(c("striped", "hover", "condensed", "responsive", font_size = 5,fixed_thead=TRUE)) %>% column_spec(1, bold = T,border_right = T, width_min="13em") %>% column_spec(3, width_min="12em")  %>% column_spec(4, width_min="16em") %>% scroll_box(width = "95%") 
+kable(ProjectList) %>% kable_styling(c("striped", "hover", "condensed", "responsive", font_size = 5,fixed_thead=TRUE)) %>% column_spec(1, bold = T,border_right = T, width_min="11em") %>% column_spec(3, width_min="12em")  %>% column_spec(4, width_min="14em") %>% scroll_box(width = "95%") 
 ```
 
-Check back soon for open methods to modify the list. In the meantime, please contact [JM Hulbert](mailto:hulbe@wsu.edu).
+This webpage and the project list above are hosted in a github repository.
+
+Anyone is welcome to collaborate to add or make changes to the github repository (https://github.com/jmhulbert/pnwcitsci). The content on this page is compiled using R Markdown, but the project list is maintained as a .csv file.
+
+* As a repository collaborator:
+  + You are welcome to clone the repository to your system and work from the R Project (fhcs.Rproj) file in Rstudio or you can make changes to the ProjectList.csv file.
+  + You can also make changes directly to the .csv file through your browser.
+  + Or you can make changes by downloading the .csv file, altering, committing and pushing it back to the repository.
+
+Note that you need a github account to collaborate or make changes. Feel free to contact [JM Hulbert](mailto:hulbe@wsu.edu) for additional details or instructions. You can also contact [JM Hulbert](mailto:hulbe@wsu.edu) to request an addition or change. 
+
+*Note that the Markdown (index.Rmd) file will need to be knit before the changes will be visible on this webpage.*
+
 
 \  
 
@@ -94,6 +119,8 @@ Want to connect with other citizen science project leaders in the region? Subscr
   +  Help: pnwCitSci+help@groups.io
   
 Note that you do *not* need a groups.io account to subscribe.
+
+**Feel free to email the list to introduce yourself, ask questions, or share updates and resources.** 
 
 \  
 

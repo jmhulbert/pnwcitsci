@@ -86,12 +86,14 @@ ProjectList <- read.csv("./files/data/Project List.csv")
 kable(ProjectList) %>% kable_styling(c("striped", "hover", "condensed", "responsive", font_size = 5,fixed_thead=TRUE)) %>% column_spec(1, bold = T,border_right = T, width_min="11em") %>% column_spec(3, width_min="12em")  %>% column_spec(4, width_min="14em") %>% scroll_box(width = "95%") 
 ```
 
+### Improve this webpage
+
 This webpage and the project list above are hosted in a github repository.
 
 Anyone is welcome to collaborate to add or make changes to the github repository (https://github.com/jmhulbert/pnwcitsci). The content on this page is compiled using R Markdown, but the project list is maintained as a .csv file.
 
 * As a repository collaborator:
-  + You are welcome to clone the repository to your system and work from the R Project (fhcs.Rproj) file in Rstudio or you can make changes to the ProjectList.csv file.
+  + You are welcome to clone the repository to your system and work from the R Project (pnwcitsci.Rproj) file in Rstudio or you can make changes to the ProjectList.csv file (files/data/ProjectList.csv).
   + You can also make changes directly to the .csv file through your browser.
   + Or you can make changes by downloading the .csv file, altering, committing and pushing it back to the repository.
 

@@ -47,7 +47,6 @@ Please find more information and **[register here](https://www.eventbrite.com/e/
 
 **[Submit abstracts here](https://forms.gle/Wt2yxGj4tJiwak1h9)!**
 
-\
 
 ***
 
@@ -55,6 +54,25 @@ Please find more information and **[register here](https://www.eventbrite.com/e/
 
 # Welcome
 Welcome to pnwcitsci.org! The purpose of this webpage is to highlight the many *active* citizen science projects in the region, connect project leaders, and share resources. 
+
+\  
+
+***
+## Mailing-list
+
+Want to connect with other citizen science project leaders in the region? Subscribe to the [mailing-list](https://groups.io/g/pnwcitsci) by visiting the [Groups.io page (https://groups.io/g/pnwCitSci)](https://groups.io/g/pnwCitSci) or by emailing the subscribe email listed below: 
+
+* Group Email Addresses
+  +  Post: pnwCitSci@groups.io
+  +  Subscribe: pnwCitSci+subscribe@groups.io
+  +  Unsubscribe: pnwCitSci+unsubscribe@groups.io
+  +  Group Owner: pnwCitSci+owner@groups.io
+  +  Help: pnwCitSci+help@groups.io
+  
+Note that you do *not* need a groups.io account to subscribe.
+
+**Feel free to email the list to introduce yourself, ask questions, or share updates and resources.** 
+
 \  
 
 ***
@@ -85,9 +103,10 @@ ProjectList <- read.csv("./files/data/Project List.csv")
 ```
 
 ```{r echo=FALSE}
-kable(ProjectList) %>% kable_styling(c("striped", "hover", "condensed", "responsive", font_size = 5,fixed_thead=TRUE)) %>% column_spec(1, bold = T,border_right = T, width_min="11em") %>% column_spec(3, width_min="12em")  %>% column_spec(4, width_min="14em") %>% scroll_box(width = "95%") 
+kable(ProjectList) %>% kable_styling(c("striped", "hover", "condensed", "responsive", font_size = 5,fixed_thead=TRUE)) %>% column_spec(1, bold = T,border_right = T, width_min="11em") %>% column_spec(3, width_min="11em")  %>% column_spec(4, width_min="14em") %>% scroll_box(width = "95%") 
 ```
-/
+
+\
 
 ### Improve this webpage
 
@@ -110,22 +129,6 @@ Note that you need a github account to collaborate or make changes. Feel free to
 ***
 
 ![](files/images/RootRotPocketCropped.jpg)
-\  
-
-### Mailing-list
-
-Want to connect with other citizen science project leaders in the region? Subscribe to the [mailing-list](https://groups.io/g/pnwcitsci) by visiting the [Groups.io page (https://groups.io/g/pnwCitSci)](https://groups.io/g/pnwCitSci) or by emailing the subscribe email listed below: 
-
-* Group Email Addresses
-  +  Post: pnwCitSci@groups.io
-  +  Subscribe: pnwCitSci+subscribe@groups.io
-  +  Unsubscribe: pnwCitSci+unsubscribe@groups.io
-  +  Group Owner: pnwCitSci+owner@groups.io
-  +  Help: pnwCitSci+help@groups.io
-  
-Note that you do *not* need a groups.io account to subscribe.
-
-**Feel free to email the list to introduce yourself, ask questions, or share updates and resources.** 
 
 \  
 

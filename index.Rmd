@@ -32,18 +32,20 @@ library(kableExtra)
 # Save the Date - *PNW Citizen & Community Science Summit*  
 
 ### Please save October 26th and 27th, 2021
+[![](files/images/CitSciSummitWide.jpg)](https://www.eventbrite.com/e/pnw-citizen-science-summit-tickets-167104687619)
 
 The event will be hosted virtually on Zoom. Join us for two days of learning and networking.  
 
-#### **Registration coming soon**
+### **Registration**
 
-We will add more information and a space to register shortly.  
+Please find more information and **[register here](https://www.eventbrite.com/e/pnw-citizen-science-summit-tickets-167104687619)**.
 
-#### **Submit an abstract**
 
-**Want to present?** 
+### **Submit an abstract**
 
-Submit abstracts [here](https://forms.gle/Wt2yxGj4tJiwak1h9)!
+*Want to present?* 
+
+**[Submit abstracts here](https://forms.gle/Wt2yxGj4tJiwak1h9)!**
 
 \
 
@@ -85,6 +87,7 @@ ProjectList <- read.csv("./files/data/Project List.csv")
 ```{r echo=FALSE}
 kable(ProjectList) %>% kable_styling(c("striped", "hover", "condensed", "responsive", font_size = 5,fixed_thead=TRUE)) %>% column_spec(1, bold = T,border_right = T, width_min="11em") %>% column_spec(3, width_min="12em")  %>% column_spec(4, width_min="14em") %>% scroll_box(width = "95%") 
 ```
+/
 
 ### Improve this webpage
 

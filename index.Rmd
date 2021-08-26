@@ -31,10 +31,13 @@ library(kableExtra)
 
 # Save the Date - *PNW Citizen & Community Science Summit*  
 
-### Please save October 26th and 27th, 2021
+###  Join us for two days of learning and networking on October 26th and 27th, 2021. 
+
 [![](files/images/CitSciSummitWide.jpg)](https://www.eventbrite.com/e/pnw-citizen-science-summit-tickets-167104687619)
 
-The event will be hosted virtually on Zoom. Join us for two days of learning and networking.  
+The event will be hosted virtually on Zoom. 
+
+The event is co-organized by the Washington Invasive Species Council, Western Invasives Network, Washington State University and the National Park Service.
 
 ### **Registration**
 

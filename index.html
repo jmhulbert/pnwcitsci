@@ -140,7 +140,7 @@ qf(g,k,c)}else g.push({name:"error_code",value:"e3",index:void 0}),c(g,k)},vf=fu
 xj:f})})})}catch(c){}},of=function(a){return-1!==["email","phone_number","first_name","last_name","street"].indexOf(a)};var xf=function(){this.eventModel={};this.targetConfig={};this.containerConfig={};this.remoteConfig={};this.globalConfig={};this.onSuccess=function(){};this.onFailure=function(){};this.setContainerTypeLoaded=function(){};this.getContainerTypeLoaded=function(){};this.eventId=void 0;this.isGtmEvent=!1},yf=function(a){var b=new xf;b.eventModel=a;return b},zf=function(a,b){a.targetConfig=b;return a},Af=function(a,b){a.containerConfig=b;return a},Bf=function(a,b){a.remoteConfig=b;return a},Cf=function(a,
 b){a.globalConfig=b;return a},Df=function(a,b){a.onSuccess=b;return a},Ef=function(a,b){a.setContainerTypeLoaded=b;return a},Ff=function(a,b){a.getContainerTypeLoaded=b;return a},Gf=function(a,b){a.onFailure=b;return a};
 xf.prototype.getWithConfig=function(a){if(void 0!==this.eventModel[a])return this.eventModel[a];if(void 0!==this.targetConfig[a])return this.targetConfig[a];if(void 0!==this.containerConfig[a])return this.containerConfig[a];if(void 0!==this.remoteConfig[a])return this.remoteConfig[a];if(void 0!==this.globalConfig[a])return this.globalConfig[a]};
-var Hf=function(a){function b(d){for(var e=Object.keys(d),f=0;f<e.length;++f)c[e[f]]=1}var c={};b(a.eventModel);b(a.targetConfig);b(a.containerConfig);b(a.globalConfig);return Object.keys(c)},If=function(a,b,c){function d(g){ac(g)&&Ca(g,function(k,m){f=!0;e[k]=m})}var e={},f=!1;c&&1!==c||(d(a.globalConfig[b]),d(a.remoteConfig[b]),d(a.containerConfig[b]),d(a.targetConfig[b]));c&&2!==c||d(a.eventModel[b]);return f?e:void 0};var Jf={},O=null,Kf=Math.random();Jf.M="UA-44627976-9";Jf.cd="9d0";Jf.Pg="ChAI8JCBigYQ+8Oa0tPD09QGEiYAuA25OYj/UFQFEFujOlnFBXutQqziQiI6HXFTFyh9iiWiKPYMEBoCm34\x3d";var Lf={__cl:!0,__ecl:!0,__ehl:!0,__evl:!0,__fal:!0,__fil:!0,__fsl:!0,__hl:!0,__jel:!0,__lcl:!0,__sdl:!0,__tl:!0,__ytl:!0},Mf={__paused:!0,__tg:!0},Nf;for(Nf in Lf)Lf.hasOwnProperty(Nf)&&(Mf[Nf]=!0);var Of="www.googletagmanager.com/gtm.js";
+var Hf=function(a){function b(d){for(var e=Object.keys(d),f=0;f<e.length;++f)c[e[f]]=1}var c={};b(a.eventModel);b(a.targetConfig);b(a.containerConfig);b(a.globalConfig);return Object.keys(c)},If=function(a,b,c){function d(g){ac(g)&&Ca(g,function(k,m){f=!0;e[k]=m})}var e={},f=!1;c&&1!==c||(d(a.globalConfig[b]),d(a.remoteConfig[b]),d(a.containerConfig[b]),d(a.targetConfig[b]));c&&2!==c||d(a.eventModel[b]);return f?e:void 0};var Jf={},O=null,Kf=Math.random();Jf.M="UA-44627976-9";Jf.cd="9d0";Jf.Pg="ChAI8JCBigYQ+8Oa0tPD09QGEiYAuA25OeN77vSA9ILQm2mDJzO1dU9RY4rXyisXkIa+/fyiKb/gjxoCrAM\x3d";var Lf={__cl:!0,__ecl:!0,__ehl:!0,__evl:!0,__fal:!0,__fil:!0,__fsl:!0,__hl:!0,__jel:!0,__lcl:!0,__sdl:!0,__tl:!0,__ytl:!0},Mf={__paused:!0,__tg:!0},Nf;for(Nf in Lf)Lf.hasOwnProperty(Nf)&&(Mf[Nf]=!0);var Of="www.googletagmanager.com/gtm.js";
 Of="www.googletagmanager.com/gtag/js";var Pf=Of,Qf=Ha(""),Rf=null,Sf=null,Tf="https://www.googletagmanager.com/a?id="+Jf.M+"&cv=1",Uf={},Vf={},Wf=function(){var a=O.sequence||1;O.sequence=a+1;return a};Jf.Og="";var Xf="";
 Jf.qj=Xf;var Yf={},Zf=new ya,$f={},ag={},dg={name:"dataLayer",set:function(a,b){H(Wa(a,b),$f);bg()},get:function(a){return cg(a,2)},reset:function(){Zf=new ya;$f={};bg()}},cg=function(a,b){return 2!=b?Zf.get(a):eg(a)},eg=function(a){var b,c=a.split(".");b=b||[];for(var d=$f,e=0;e<c.length;e++){if(null===d)return!1;if(void 0===d)break;d=d[c[e]];if(-1!==va(b,d))return}return d},fg=function(a,b){ag.hasOwnProperty(a)||(Zf.set(a,b),H(Wa(a,b),$f),bg())},bg=function(a){Ca(ag,function(b,c){Zf.set(b,c);H(Wa(b,
 void 0),$f);H(Wa(b,c),$f);a&&delete ag[b]})},hg=function(a,b,c){Yf[a]=Yf[a]||{};Yf[a][b]=gg(b,c)},gg=function(a,b){var c,d=1!==(void 0===b?2:b)?eg(a):Zf.get(a);"array"===Zb(d)||"object"===Zb(d)?c=H(d):c=d;return c},ig=function(a,b){if(Yf[a])return Yf[a][b]},jg=function(a,b){Yf[a]&&delete Yf[a][b]};
@@ -355,12 +355,12 @@ Sf=(new Date).getTime();at.bootstrap=Sf;if(a){var y=ej("INIT");}}}
 <ul>
 <li>Strategies for Retaining Citizen Scientists</li>
 <li>Understanding Your Audience and Diversifying Your Reach</li>
-<li>Connecting Researchers and Volunteer/Community Engagement Programs - ‘You Bring the Volunteers, We’ll Bring the Science’</li>
+<li>Connecting Researchers and Volunteer/Community Engagement Programs</li>
 <li>Case-studies of Successfully Collaborating Between Programs and Organizations</li>
 <li>Identifying Opportunities for Research and Ensuring Data Standards</li>
-<li>Developing Program Codes and Conduct - Best Management Practices and Terminology</li>
-<li>Giving Back to Citizen Scientists - Methods for Increasing Merit and Impacts for Participants</li>
-<li>Tools and Technology for Citizen Science Data Collection</li>
+<li>Evaluating Impacts / Benefits for Citizen Scientists and Giving More Back</li>
+<li>Incorporating Citizen Science Into the Work of Government Agencies</li>
+<li>Strategies for Program Evaluation and Defining Program Outcomes</li>
 </ul></li>
 </ul>
 <hr />
@@ -836,6 +836,40 @@ Water quality
 </td>
 <td style="text-align:left;">
 <a href="https://thorntoncreekalliance.info/project/citizen-science-water-quality-efforts-on-thornton-creek/" class="uri">https://thorntoncreekalliance.info/project/citizen-science-water-quality-efforts-on-thornton-creek/</a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;min-width: 11em; font-weight: bold;border-right:1px solid;">
+Puget Sound Sea Bird Survey
+</td>
+<td style="text-align:left;">
+Washington
+</td>
+<td style="text-align:left;min-width: 11em; ">
+Seattle Audubon
+</td>
+<td style="text-align:left;min-width: 14em; ">
+Wildlife conservation
+</td>
+<td style="text-align:left;">
+<a href="https://seattleaudubon.org/get-involved/community-science/" class="uri">https://seattleaudubon.org/get-involved/community-science/</a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;min-width: 11em; font-weight: bold;border-right:1px solid;">
+Neighborhood Bird Project
+</td>
+<td style="text-align:left;">
+Washington
+</td>
+<td style="text-align:left;min-width: 11em; ">
+Seattle Audubon
+</td>
+<td style="text-align:left;min-width: 14em; ">
+Wildlife conservation
+</td>
+<td style="text-align:left;">
+<a href="https://seattleaudubon.org/get-involved/community-science/" class="uri">https://seattleaudubon.org/get-involved/community-science/</a>
 </td>
 </tr>
 </tbody>

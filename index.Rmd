@@ -37,7 +37,7 @@ library(kableExtra)
 
 The event will be hosted virtually on Zoom. 
 
-The event is co-organized by the Washington Invasive Species Council, Western Invasives Network, Washington State University and the National Park Service.
+The event is co-organized by the Washington Invasive Species Council, Western Invasives Network, Whatcom County Amphibian Monitoring Program, Woodland Park Zoo, Washington State University and the National Park Service.
 
 ### **Registration**
 
@@ -51,7 +51,17 @@ Please find more information and **[register here](https://www.eventbrite.com/e/
 
 **[Submit abstracts here](https://forms.gle/Wt2yxGj4tJiwak1h9)!**
 
-**The deadline to submit abstracts is September 24th, 2021.**
+**The deadline to submit abstracts is October 1st, 2021.**
+
+* *Anticipated sessions include, but are not limited to:*
+  + Strategies for Retaining Citizen Scientists
+  + Understanding Your Audience and Diversifying Your Reach
+  + Connecting Researchers and Volunteer/Community Engagement Programs - ‘You Bring the Volunteers, We’ll Bring the Science’
+  + Case-studies of Successfully Collaborating Between Programs and Organizations
+  + Identifying Opportunities for Research and Ensuring Data Standards
+  + Developing Program Codes and Conduct - Best Management Practices and Terminology
+  + Giving Back to Citizen Scientists - Methods for Increasing Merit and Impacts for Participants
+  + Tools and Technology for Citizen Science Data Collection
 
 ***
 
@@ -110,6 +120,16 @@ ProjectList <- read.csv("./files/data/Project List.csv")
 ```{r echo=FALSE}
 kable(ProjectList) %>% kable_styling(c("striped", "hover", "condensed", "responsive", font_size = 5,fixed_thead=TRUE)) %>% column_spec(1, bold = T,border_right = T, width_min="11em") %>% column_spec(3, width_min="11em")  %>% column_spec(4, width_min="14em") %>% scroll_box(width = "95%") 
 ```
+\ 
+
+#### City Nature Challenge
+Every year from April 30 - May 3, cities and counties participate in the City Nature Challenge on [iNaturalist](https://inaturalist.org). 
+
+* Check the list below for a project near you:
+  + [City Nature Challenge: Seattle-Tacoma Metro](https://www.inaturalist.org/projects/city-nature-challenge-2021-seattle-tacoma-metropolitan-area)
+  + [City Nature Challenge: Greater Portland-Vancouver Metro](https://www.portland.gov/parks/nature/events/2021/4/30/city-nature-challenge)
+  + [City Nature Challenge: Bonner County, ID](https://www.inaturalist.org/projects/city-nature-challenge-2021-bonner-county-id)
+
 
 \
 

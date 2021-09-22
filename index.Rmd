@@ -166,6 +166,9 @@ Please contact [JM Hulbert](https://jmhulbert.github.io) with any questions or s
 ***
 ### Local Resources
 
++ Reports
+  + [Puget Sound Citizen Science Summit 2018 Report](https://ptmsc.org/uploads/pdf/Science/citizen_science/2018%20Puget%20Sound%20Summit%20Report_4-9-2018%20orig%20size.pdf)
+
 * Guides for Citizen Scientists
     + [Scientific literacy for the citizen scientist](https://pubs.extension.wsu.edu/scientific-literacy-for-the-citizen-scientist), Washington State University Extension.
     + [A citizen science guide to wild bees and floral visitors in western Washington (Home Garden Series)](https://pubs.extension.wsu.edu/a-citizen-science-guide-to-wild-bees-and-floral-visitors-in-western-washington-home-garden-series), Washington State University Extension.

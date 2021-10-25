@@ -35,29 +35,15 @@ library(kableExtra)
 
 [![](files/images/CitSciSummitWide.jpg)](https://www.eventbrite.com/e/pnw-citizen-science-summit-tickets-167104687619)
 
-The event will be hosted virtually on Zoom. 
-
 The event is co-organized by the Washington Invasive Species Council, Western Invasives Network, Whatcom County Amphibian Monitoring Program, Woodland Park Zoo, Washington State University and the National Park Service.
 
-### **Registration**
+### **Program**
 
-Please find more information and **[register here](https://www.eventbrite.com/e/pnw-citizen-science-summit-tickets-167104687619)**.
+The 2021 Summit features more than 30 talks from local projects throughout the Pacific Northwest.
 
-**Registration closes on Friday, October 22nd, 2021** (the deadline was extended 1 week).
+[2021 Summit Agenda (PDF)](./files/10.21.21 PNW CitSci Summit Final Agenda.pdf)
 
-### **Submit an abstract**
-
-Abstract submissions have closed. All submitted abstracts were accepted to maximize inclusion. Please check back soon for a schedule. 
-
-* *Anticipated sessions include, but are not limited to:*
-  + Strategies for Retaining Citizen Scientists
-  + Understanding Your Audience and Diversifying Your Reach
-  + Connecting Researchers and Volunteer/Community Engagement Programs
-  + Case-studies of Successfully Collaborating Between Programs and Organizations
-  + Identifying Opportunities for Research and Ensuring Data Standards
-  + Evaluating Impacts / Benefits for Citizen Scientists and Giving More Back
-  + Incorporating Citizen Science Into the Work of Government Agencies
-  + Strategies for Program Evaluation and Defining Program Outcomes
+See you on October 26th and 27th.
 
 ***
 

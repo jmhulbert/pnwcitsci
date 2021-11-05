@@ -103,13 +103,26 @@ Below is a list of outdoor citizen science projects active in the Pacific Northw
 
 ```{r echo=FALSE}
 ProjectList <- read.csv("./files/data/Project List.csv")
-#ProjectList <- arrange(ProjectList,State)
+ProjectList <- arrange(ProjectList,desc(Scope))
 ```
 
 ```{r echo=FALSE}
 kable(ProjectList) %>% kable_styling(c("striped", "hover", "condensed", "responsive", font_size = 5,fixed_thead=TRUE)) %>% column_spec(1, bold = T,border_right = T, width_min="11em") %>% column_spec(3, width_min="11em")  %>% column_spec(4, width_min="14em") %>% scroll_box(width = "95%") 
 ```
 \ 
+
+#### University Extension Programming
+Many land grant universities in the region offer programming and opportunities to learn and contribute to research. 
+
+* Check out the below programs for more information:
+  + Washington
+    + [Washington Master Gardener Program](http://mastergardener.wsu.edu/) 
+  + Oregon
+    + [Oregon Master Gardener Program](https://extension.oregonstate.edu/mg)
+    + [Oregon Master Naturalist Program](https://extension.oregonstate.edu/mn)
+    + [Oregon Master Woodland Manager Program](https://extension.oregonstate.edu/mwm)
+  + Alaska 
+    + [Alaska Master Gardener Program](https://www.uaf.edu/ces/garden/mastergardeners/)
 
 #### City Nature Challenge
 Every year from April 30 - May 3, cities and counties participate in the City Nature Challenge on [iNaturalist](https://inaturalist.org). 

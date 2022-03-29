@@ -74,7 +74,12 @@ There are many opportunities for anyone to contribute to scientific research. Fo
 
 ***
 
-##  Previous Events
+## Upcoming 2022 Summit
+
+Want to join the planning team for the 2022 PNW Citizen and Community Science Summit? Let us know by contacting [JM Hulbert](https://jmhulbert.github.io).
+
+
+## Previous Events
 
 ### *2021 PNW Citizen & Community Science Summit*  (October 26-27, 2021). 
 
@@ -135,6 +140,8 @@ Every year from April 30 - May 3, cities and counties participate in the City Na
 
 \
 
+***
+
 ### Improve this webpage
 
 This webpage and the project list above are hosted in a github repository.
@@ -163,9 +170,6 @@ Note that you need a github account to collaborate or make changes. Feel free to
 ### More Information
 Please contact [JM Hulbert](https://jmhulbert.github.io) with any questions or suggestions for the PNW Citizen Science webpage. 
 
-\  
-
-***
 ### Local Resources
 
 + Reports
@@ -184,6 +188,9 @@ More information coming soon
 \  
 
 ***
+
+\
+
 ### Technical Literature
 
 * Publications

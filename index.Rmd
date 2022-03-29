@@ -2,10 +2,9 @@
 title: "Pacific Northwest Citizen Science"
 subtitle: "Advancing knowledge and learning together"
 output: 
-  prettydoc::html_pretty:
+  html_document:
     css: style.css
-    theme: caymen
-    highlight: github
+
 ---
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-44627976-9"></script>
@@ -28,30 +27,6 @@ library(tidyverse)
 library(knitr)
 library(kableExtra)
 ```
-
-# Save the Date - *PNW Citizen & Community Science Summit*  
-
-###  Join us for two days of learning and networking on October 26th and 27th, 2021. 
-
-[![](files/images/CitSciSummitWide.jpg)](https://www.eventbrite.com/e/pnw-citizen-science-summit-tickets-167104687619)
-
-The event is co-organized by the Washington Invasive Species Council, Western Invasives Network, Whatcom County Amphibian Monitoring Program, Woodland Park Zoo, Washington State University and the National Park Service.
-
-### **Program**
-
-The 2021 Summit features more than 30 presentations from local projects throughout the Pacific Northwest.
-
-[2021 Summit Agenda (PDF)](./files/10.25.21 PNW CitSci Summit Final Agenda v2.pdf)
-
-See you on October 26th and 27th.
-
-### **Abstracts**
-
-[2021 Summit Abstracts (PDF)](./files/PNW CitSci Summit Abstracts v3.pdf)
-
-Thank you to everyone who submitted an abstract for this years event. 
-
-***
 
 
 ![](files/images/PugetSoundCropped.jpg)
@@ -80,6 +55,7 @@ Note that you do *not* need a groups.io account to subscribe.
 \  
 
 ***
+
 ## Citizen Science
 
 Citizen science is a term for research championed by people without formal scientific backgrounds. 
@@ -97,6 +73,30 @@ There are many opportunities for anyone to contribute to scientific research. Fo
 \  
 
 ***
+
+##  Previous Events
+
+### *2021 PNW Citizen & Community Science Summit*  (October 26-27, 2021). 
+
+![](files/images/CitSciSummitWide.jpg){width=50%}
+
+The [event](https://www.eventbrite.com/e/pnw-citizen-science-summit-tickets-167104687619) was co-organized by the Washington Invasive Species Council, Western Invasives Network, Whatcom County Amphibian Monitoring Program, Woodland Park Zoo, Washington State University and the National Park Service.
+
+#### **Program**
+
+The 2021 Summit featured more than 30 presentations from local projects throughout the Pacific Northwest.
+
+[2021 Summit Agenda (PDF)](./files/10.25.21 PNW CitSci Summit Final Agenda v2.pdf)
+
+#### **Abstracts**
+
+[2021 Summit Abstracts (PDF)](./files/PNW CitSci Summit Abstracts v3.pdf)
+
+Thank you to everyone who submitted an abstract for this years event. 
+
+***
+
+
 ## Outdoor Citizen Science Projects in the Pacific Northwest
 
 Below is a list of outdoor citizen science projects active in the Pacific Northwest (not exhaustive, under constant revision). Please send suggestion changes to [JM Hulbert](mailto:hulbe@wsu.edu).

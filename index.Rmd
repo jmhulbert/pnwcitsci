@@ -31,6 +31,10 @@ library(kableExtra)
 
 ![](files/images/PugetSoundCropped.jpg)
 
+
+> **Join us for a Networking Evening at Woodland Park Zoo on May 25th! (see below)**
+
+
 # Welcome
 Welcome to pnwcitsci.org! The purpose of this webpage is to highlight the many *active* citizen science projects in the region, connect project leaders, and share resources. 
 
@@ -74,10 +78,39 @@ There are many opportunities for anyone to contribute to scientific research. Fo
 
 ***
 
+## Pacific Northwest Citizen Science - Networking Evening at Woodland Park Zoo! 
+
+Do you lead a scientific research project that involves participation by volunteers? Do you coordinate volunteers to participate in a scientific research project? Do you participate as a volunteer in a scientific research project? Whether you call it community science, citizen science, public participation in scientific research or something else, if this is a focus and/or interest of yours, we invite you to join this regional networking event! 
+
+This event complements the concurrent national [C*Sci22 conference](https://citizenscience.org/c-sci-2022/) (but registration for the national event is not required to attend this regional gathering). This event also serves as a lead-up to a regional Pacific Northwest Citizen Science Summit being planned for October 2022 to be held in the Portland, OR area with virtual participation options (dates TBD). 
+
+### Details
+
+What: **Pacific Northwest Citizen Science - Networking Evening at Woodland Park Zoo**
+
+When: Wednesday, May 25 from 4:00 to 7:30 p.m. 
+
+Where: Woodland Park Zoo (enter via the zoo’s West Entry) 
+
+RSVP (required): https://forms.gle/fCqouVBdTyW7xnUW8
+ 
+ 
+### Agenda: 
+
+4:00 – 6:00 p.m. PNW Citizen Science Mini-Fair & Reception 
+Near the zoo’s North Meadow 
+Food and drink provided 
+Break 
+6:30 – 7:30 p.m. PNW Citizen Science Breakout Discussions 
+Center for Wildlife Conservation Boardroom 
+Dessert, coffee & tea provided 
+
 ## Upcoming 2022 Summit
 
 Want to join the planning team for the 2022 PNW Citizen and Community Science Summit? Let us know by contacting [JM Hulbert](https://jmhulbert.github.io).
 
+This event is organized by people involved with Pacific Northwest Citizen Science
+https://pnwcitsci.org/, representing the Washington Invasive Species Council, Western Invasives Network, Washington State University and Woodland Park Zoo 
 
 ## Previous Events
 

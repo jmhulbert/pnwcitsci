@@ -1,5 +1,5 @@
 ---
-title: "Pacific Northwest Citizen Science"
+title: "Pacific Northwest Citizen and Community Science"
 subtitle: "Advancing knowledge and learning together"
 output: 
   html_document:
@@ -33,9 +33,21 @@ library(kableExtra)
 
 ***
 
-# Save the Date
+## Register for the next PNW Citizen and Community Science Summit
 
-> **October 20th-21st, 2022**  - Please join us for a virtual summit of invited talks about 'expanding our impact.' Stay tuned for more information.
+![](files/images/CitSci2022Summit.jpg){width=50%}
+
+> **October 20th-21st, 2022**  - Please join us for a virtual summit of invited talks about 'expanding our impact.' **Register at https://www.eventbrite.com/e/pnw-citizen-science-summit-2022-tickets-427568919147 **
+
++ Oct 20 Sessions
+    + Impacts on participants and beyond
+    + Impacts on management decisions
+    + Evaluating Impacts
+
++ Oct 21 Sessions
+    + Increasing impacts through DEI+
+    + Expanding impacts through partnerships
+    + Building Community in the PNW
 
 ***
 

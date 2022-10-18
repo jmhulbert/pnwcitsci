@@ -128,12 +128,15 @@ Thank you to everyone who submitted an abstract for the 2021 event.
 
 ## Outdoor Citizen Science Projects in the Pacific Northwest
 
-Below is a list of outdoor citizen science projects active in the Pacific Northwest (not exhaustive, under constant revision). Please send suggestion changes to [JM Hulbert](mailto:hulbe@wsu.edu).
 
 ```{r echo=FALSE}
 ProjectList <- read.csv("./files/data/Project List.csv")
 ProjectList <- arrange(ProjectList,desc(Scope))
 ```
+
+>*There are at least `r length(ProjectList$Project)` outdoor citizen and community science projects in the Pacific Northwest!* 
+
+Below is a list current known projects organized by geographic scope (not exhaustive, under constant revision). Please send suggested changes to [JM Hulbert](mailto:hulbe@wsu.edu).
 
 ```{r echo=FALSE}
 kable(ProjectList) %>% kable_styling(c("striped", "hover", "condensed", "responsive", font_size = 5,fixed_thead=TRUE)) %>% column_spec(1, bold = T,border_right = T, width_min="11em") %>% column_spec(3, width_min="11em")  %>% column_spec(4, width_min="14em") %>% scroll_box(width = "95%") 
@@ -194,7 +197,7 @@ Note that you need a github account to collaborate or make changes. Feel free to
 ### More Information
 Please contact [JM Hulbert](https://jmhulbert.github.io) with any questions or suggestions for the PNW Citizen Science webpage. 
 
-### Local Resources
+#### Local Resources
 
 + Reports
   + [Puget Sound Citizen Science Summit 2018 Report](https://ptmsc.org/uploads/pdf/Science/citizen_science/2018%20Puget%20Sound%20Summit%20Report_4-9-2018%20orig%20size.pdf)
@@ -212,12 +215,21 @@ More information coming soon
 \  
 
 ***
-
-\
-
 ### Technical Literature
 
 * Publications
     + Taylor SD, Meiners JM, Riemer K, Orr MC, White EP. [Comparison of large‐scale citizen science data and long‐term study data for phenology modeling](https://andrewsforest.oregonstate.edu/publications/5081). Ecology. 2019 Feb;100(2):e02568.
     
 More information coming soon
+
+\
+
+***
+### Advance Citizen Science
+
+Greater support for citizen science in the Pacific Northwest is needed. Many of the above projects can accept donations and gifts, some of which are tax-deductible. Interested in funding multiple projects, establishing an endowment or grant, or supporting pnwcitsci.org? Contact [JM Hulbert](mailto:hulbe@wsu.edu) to discuss opportunities. 
+
+**Together we can increase our impact with your support.** 
+
+
+

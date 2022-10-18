@@ -96,18 +96,6 @@ There are many opportunities for anyone to contribute to scientific research. Fo
 ***
 
 
-
-## Upcoming 2022 Summit
-
-Want to join the planning team for the 2022 PNW Citizen and Community Science Summit? Let us know by contacting [JM Hulbert](https://jmhulbert.github.io).
-
-This event is organized by people involved with Pacific Northwest Citizen Science
-https://pnwcitsci.org/, representing the Washington Invasive Species Council, Western Invasives Network, Washington State University and Woodland Park Zoo 
-
-\  
-
-***
-
 ## Previous Events
 
 ### *Pacific Northwest Citizen Science - Networking Evening at Woodland Park Zoo!* (May 25, 2022)
@@ -119,7 +107,7 @@ Thanks to everyone that could join us for the networking event in May to complim
 
 ### *2021 PNW Citizen & Community Science Summit*  (October 26-27, 2021). 
 
-![](files/images/CitSciSummitWide.jpg){width=50%}
+![](files/images/CitSciSummitWide.jpg){width=25%}
 
 The [event](https://www.eventbrite.com/e/pnw-citizen-science-summit-tickets-167104687619) was co-organized by the Washington Invasive Species Council, Western Invasives Network, Whatcom County Amphibian Monitoring Program, Woodland Park Zoo, Washington State University and the National Park Service.
 

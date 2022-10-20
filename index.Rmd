@@ -33,11 +33,16 @@ library(kableExtra)
 
 ***
 
-## Register for the next PNW Citizen and Community Science Summit
+## PNW Citizen and Community Science Summit
 
 ![](files/images/CitSci2022Summit.jpg){width=50%}
 
-> **October 20th-21st, 2022**  - Please join us for a virtual summit of invited talks about 'expanding our impact.' **Register at https://www.eventbrite.com/e/pnw-citizen-science-summit-2022-tickets-427568919147 **
+> **October 20th-21st, 2022**  - Please join us for a virtual summit of invited talks about 'expanding our impact.' *Register at https://www.eventbrite.com/e/pnw-citizen-science-summit-2022-tickets-427568919147 *
+
+> **[Agenda (google drive)](https://drive.google.com/file/d/1PL6I8K7a5Sc4rACTe-KnWJJcqElHMG6c/view)**
+
+> **[Agenda (PDF)](files/PNWCitSci_Agenda-10.20.22.pdf)**
+
 
 + Oct 20 Sessions
     + Impacts on participants and beyond

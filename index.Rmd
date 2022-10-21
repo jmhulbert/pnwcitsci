@@ -37,22 +37,11 @@ library(kableExtra)
 
 ![](files/images/CitSci2022Summit.jpg){width=50%}
 
-> **October 20th-21st, 2022**  - Please join us for a virtual summit of invited talks about 'expanding our impact.' *Register at https://www.eventbrite.com/e/pnw-citizen-science-summit-2022-tickets-427568919147 *
+>**Thank you for attending the 2022 Summit**
 
-> **[Agenda (google drive)](https://drive.google.com/file/d/1PL6I8K7a5Sc4rACTe-KnWJJcqElHMG6c/view)**
+October 20th-21st, 2022  - 'expanding our impact.'
 
-> **[Agenda (PDF)](files/PNWCitSci_Agenda-10.20.22.pdf)**
-
-
-+ Oct 20 Sessions
-    + Impacts on participants and beyond
-    + Impacts on management decisions
-    + Evaluating Impacts
-
-+ Oct 21 Sessions
-    + Increasing impacts through DEI+
-    + Expanding impacts through partnerships
-    + Building Community in the PNW
+Agenda: [Google Drive](https://drive.google.com/file/d/1PL6I8K7a5Sc4rACTe-KnWJJcqElHMG6c/view) or [PDF](files/PNWCitSci_Agenda-10.20.22.pdf))
 
 ***
 

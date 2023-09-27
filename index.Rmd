@@ -33,20 +33,8 @@ library(kableExtra)
 
 ***
 
-## PNW Citizen and Community Science Summit
-
-![](files/images/CitSci2022Summit.jpg){width=50%}
-
->**Thank you for attending the 2022 Summit**
-
-October 20th-21st, 2022  - 'expanding our impact.'
-
-Agenda: [Google Drive](https://drive.google.com/file/d/1PL6I8K7a5Sc4rACTe-KnWJJcqElHMG6c/view) or [PDF](files/PNWCitSci_Agenda-10.20.22.pdf))
-
-***
-
-
 # Welcome
+
 Welcome to pnwcitsci.org! The purpose of this webpage is to highlight the many *active* citizen science projects in the region, connect project leaders, and share resources. 
 
 \  
@@ -71,6 +59,20 @@ Note that you do *not* need a groups.io account to subscribe.
 
 ***
 
+## Subgroups 
+
+Interested in working closely and collaborating regionally on the below topics? Keep an eye out for a sign-up survey coming soon!
+
+  + Building Community in the PNW
+  + 2023 PNW CitSci Summit planning group
+
+
+
+\
+
+***
+
+
 ## Citizen Science
 
 Citizen science is a term for research championed by people without formal scientific backgrounds. 
@@ -89,8 +91,13 @@ There are many opportunities for anyone to contribute to scientific research. Fo
 
 ***
 
-
 ## Previous Events
+
+### *2022 PNW Citizen and Community Science Summit* (October 20th-21st, 2022)
+
+![](files/images/CitSci2022Summit.jpg){width=25%}
+
+2022 Agenda: [Google Drive](https://drive.google.com/file/d/1PL6I8K7a5Sc4rACTe-KnWJJcqElHMG6c/view) or [PDF](files/PNWCitSci_Agenda-10.20.22.pdf))
 
 ### *Pacific Northwest Citizen Science - Networking Evening at Woodland Park Zoo!* (May 25, 2022)
 
@@ -99,7 +106,7 @@ Thanks to everyone that could join us for the networking event in May to complim
 ![](files/images/PNWnetworkingMAY22_byJH.jpg){width=50%} 
 
 
-### *2021 PNW Citizen & Community Science Summit*  (October 26-27, 2021). 
+### *2021 PNW Citizen & Community Science Summit* (October 26-27, 2021). 
 
 ![](files/images/CitSciSummitWide.jpg){width=25%}
 
